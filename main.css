@@ -93,7 +93,7 @@ header picture img{
     z-index: -1;
     margin: -3px;
     border-radius: inherit;
-    background: linear-gradient(to right, rgb(239, 68, 68), rgb(153, 27, 27))
+    background: linear-gradient(to right, rgb(249, 153, 153), rgb(213, 27, 27))
 }
 
 .thumbnail{
